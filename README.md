@@ -27,7 +27,7 @@ mvn clean install
   - You may use a monitoring tool like mongodb compass to handle all db related work more easily. https://www.mongodb.com/products/compass
 - With the executable .jar made with the previous step, you can run the application by 
 ```shell
-java -jar people-base-data-rest-0.0.1-SNAPSHOT.jar
+java -jar people-base-mongo-0.0.1-SNAPSHOT.jar
 ```
 command.
 - By Default it uses port 8080.
