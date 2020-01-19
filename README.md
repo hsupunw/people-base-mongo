@@ -7,7 +7,7 @@
 
 ## Build
 You can build the project with following steps
-- Navigate to project root. */people-base/
+- Navigate to project root. */people-base-mongo/
 - Execute a maven build by 
 ```shell
 mvn clean package
@@ -16,7 +16,7 @@ or
 ```shell
 mvn clean install
 ```
-- Find the executable .jar at */people-base/target/
+- Find the executable .jar at */people-base-mongo/target/
 
 ## Test without installing
 - Alternately you can download the executable .jar file directly from *******
