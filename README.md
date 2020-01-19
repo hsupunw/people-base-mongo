@@ -19,7 +19,7 @@ mvn clean install
 - Find the executable .jar at */people-base-mongo/target/
 
 ## Test without installing
-- Alternately you can download the executable .jar file directly from *******
+- Alternately you can download the executable .jar file directly from https://drive.google.com/open?id=1oPOirp4JGZHpH4tzgt9U2FQtvbqp_1sN
 
 ## Run
 - Prerequisite:
