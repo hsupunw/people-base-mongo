@@ -5,6 +5,10 @@
 - More over it is protected by basic authentication supported by spring-security.
 - It additonally, provides related hateos navigation links for each endpoint response.
 
+## Prerequisite
+- java 8
+- mongodb (refer Run below)
+
 ## Build
 You can build the project with following steps
 - Navigate to project root. */people-base-mongo/
