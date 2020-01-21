@@ -1,4 +1,4 @@
-# people-base-mongo
+# Project people-base-mongo
 - This is a sample sapring-boot based REST application which shows main crud operations in person entities. 
 - It uses spring-data-rest for web layer.
 - Also spring-data-mongodb for persistence layer with mongo db database.
