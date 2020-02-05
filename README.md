@@ -14,11 +14,11 @@ You can build the project with following steps
 - Navigate to project root. */people-base-mongo/
 - Execute a maven build by 
 ```shell
-mvn clean package
+mvnw clean package
 ```
 or 
 ```shell
-mvn clean install
+mvnw clean install
 ```
 - Find the executable .jar at */people-base-mongo/target/
 
